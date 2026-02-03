@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+venv/
+# Binance-specific
+*.log
+# binance_orders.log
+# binance_futures.log
+# binance_debug_*.log
+# binance_trading.log
+
+.env
