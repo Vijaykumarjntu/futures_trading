@@ -9,3 +9,15 @@ venv/
 # binance_trading.log
 
 .env
+
+
+## **6. Update `.gitignore`**
+```gitignore
+# Test coverage reports
+htmlcov/
+.coverage
+.pytest_cache/
+.tox/
+
+# Virtual environment (already there)
+venv/
